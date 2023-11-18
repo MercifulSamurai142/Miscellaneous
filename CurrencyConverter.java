@@ -13,7 +13,6 @@ import java.net.URL;
 
 import java.util.Map;
 import java.util.Scanner;
-
 public class CurrencyConverter {
     public static void main(String[] args) throws IOException {
         // Setting URL
@@ -89,10 +88,6 @@ public class CurrencyConverter {
 
     }
 }
-
-
-
-
 class ExchangeRateData {
     private String result;
     private String documentation;
